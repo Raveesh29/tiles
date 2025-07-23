@@ -1,0 +1,6 @@
+numpy
+selenium
+beautifulsoup4
+requests
+lxml
+pandas
